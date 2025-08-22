@@ -11,7 +11,7 @@ Currently pursuing my **Associate Degree in Computer Science & Web Development**
 
 ## 🔧 Featured Projects
 
-- **[Python Tower Defense Game](#)**  
+- **[Python Tower Defense Game]**  
   Built with Pygame, featuring modular enemy behavior, projectile logic, and UI elements.  
   *Skills:* Python, game logic, debugging, version control  
 
