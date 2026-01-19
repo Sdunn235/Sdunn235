@@ -32,8 +32,8 @@ Currently pursuing my **Associate Degree in Computer Science & Web Development**
 ---
 
 ## 📫 Connect with Me
-- 📍 Milwaukee, WI  
-- ✉️ Email: **s.dunn235@gmail.com**  
+- 📍 All Over the USA  
+- ✉️ Email: **can ask**  
  
 
 ---
